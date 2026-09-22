@@ -14,7 +14,6 @@ How did AdventureWorks perform in 2017 across revenue, profit, and customer grow
 ### Page 2 — Underperforming Products
 ![Underperforming Products](screenshots/page2-deep-dive.png)
 
-*(Add your exported PNG screenshots to a `screenshots/` folder using these file names, or update the paths above to match.)*
 
 ## Key Insights
 

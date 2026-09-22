@@ -60,6 +60,4 @@ Built on the standard AdventureWorks sample dataset:
 - `Project.pbix` — the full Power BI file (download and open in Power BI Desktop to explore interactively)
 - `screenshots/` — static previews of both dashboard pages
 
-## About
 
-Built by Akkash as a portfolio project for data/business analyst internship applications.
